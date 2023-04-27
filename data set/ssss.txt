@@ -1,0 +1,68 @@
+Project Flow:
+? User interacts with the UI to enter the input.
+? Entered input is analysed by the model which is integrated.
+? Once model analyses the input the prediction is showcased on the UI
+To accomplish this, we have to complete all the activities listed below,
+? Define Problem / Problem Understanding
+? Specify the business problem
+? Business requirements
+? Literature Survey
+? Social or Business Impact.
+? Data Collection & Preparation
+? Collect the dataset
+? Data Preparation
+? Exploratory Data Analysis
+? Descriptive statistical
+? Visual Analysis
+? Model Building
+? Training the model in multiple algorithms
+? Testing the model
+? Performance Testing & Hyperparameter Tuning
+? Testing model with multiple evaluation metrics
+? Comparing model accuracy before & after applying hyperparameter tuning
+? Model Deployment
+? Save the best model
+? Integrate with Web Framework
+? Project Demonstration & Documentation
+? Record explanation Video for project end to end solution
+? Project Documentation-Step by step project development procedure
+Milestone 1: Define Problem / Problem Understanding
+Activity 1: Specify the business problem
+Refer Project Description
+Activity 2: Business requirements
+The business requirements for a machine learning model to predict personal loan approval include
+the ability to accurately predict loan approval based on applicant information, Minimise the number
+of false positives (approved loans that default) and false negatives (rejected loans that would have
+been successful).Provide an explanation for the model's decision, to comply with regulations and
+improve transparency.
+Activity 3: Literature Survey (Student Will Write)
+As the data is increasing daily due to digitization in the banking sector, people want to apply for
+loans through the internet. Machine Learning (ML), as a typical method for information
+investigation, has gotten more consideration increasingly. Individuals of various businesses are
+utilising ML calculations to take care of the issues dependent on their industry information. Banks
+are facing a significant problem in the approval of the loan. Daily there are so many applications
+that are challenging to manage by the bank employees, and also the chances of some mistakes
+are high.Most banks earn profit from the loan, but it is risky to choose deserving customers from
+the number of applications.There are various algorithms that have been used with varying levels of
+success. Logistic regression, decision tree, random forest, and neural networks have all been
+used and have been able to accurately predict loan defaults. Commonly used features in these
+studies include credit score, income, and employment history, sometimes also other features like
+age, occupation, and education level.
+Activity 4: Social or Business Impact.
+Social Impact:- Personal loans can stimulate economic growth by providing individuals with the
+funds they need to make major purchases, start businesses, or invest in their education.
+Business Model/Impact:- Personal loan providers may charge fees for services such as loan
+origination, processing, and late payments.Advertising the brand awareness and marketing to
+reach out to potential borrowers to generate revenue.
+Milestone 2: Data Collection & Preparation
+ML depends heavily on data. It is the most crucial aspect that makes algorithm training possible. So this
+section allows you to download the required dataset.
+Activity 1: Collect the dataset
+There are many popular open sources for collecting the data. Eg: kaggle.com, UCI repository, etc.
+In this project we have used .csv data. This data is downloaded from kaggle.com. Please refer to
+the link given below to download the dataset.
+Link: https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset
+As the dataset is downloaded. Let us read and understand the data properly with the help of some
+visualisation techniques and some analysing techniques.
+Note: There are a number of techniques for understanding the data. But here we have used some
+of it. In an additional way, you can use multiple techniques.
